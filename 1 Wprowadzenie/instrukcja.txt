@@ -1,0 +1,5 @@
+Zadanie 1
+Za pomocą modułu Zadanie (najczęściej) będą zadawane zadania domowe lub inne pojedyncze zadania do wykonania. Niektóre zadania będą wykonywane indywidualnie, inne w grupach. W tym zadaniu przykładowym proszę o wysłanie jednego pliku PDF zawierającego imię, nazwisko oraz dowolny krótki tekst. Rozmiar pliku nie może przekraczać 1 MB.
+
+Zadanie 2
+Po podzieleniu się na grupy 2- lub 3-osobowe, proszę o przygotowanie krótkiego opisu dowolnej aplikacji komputerowej lub na telefon komórkowy. W opisie proszę podać nazwę programu, jego główne zadania, a także krótko uzasadnić jego użyteczność. Proszę o wgranie dwóch plików: zrzutu ekranu działającego programu w formacie JPG oraz przygotowanego opisu w formacie PDF. Opis powinien wyglądać estetycznie i być odpowiednio sformatowany (tytuł, podkreślone ważne elementy, wyrównane obrazki ...).

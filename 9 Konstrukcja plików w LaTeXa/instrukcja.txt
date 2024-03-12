@@ -1,0 +1,7 @@
+Proszę o pobranie tekstu dowolnej książki pisanej prozą po polsku, np. ze strony wolnelektury.pl (plik TXT), 
+a następnie złożenie jej w LaTeXu w stylu „book”.  Książka po sformatowaniu powinna mieć co najmniej 5 stron 
+(można wziąć fragment jakiejś dłuższej książki). Tekst należy podzielić na co najmniej 3 rozdziały, a każdy z nich 
+na co najmniej 3 podrozdziały. Trzeba zastosować komendy \author, \title, \maketitle i wygenerować spis treści.
+
+Proszę zastosować również odsyłacze do rozdziałów (\label i \ref), przypisy i wyróżnienia (\emph) oraz różne 
+rodzaje otoczeń (w szczególności: wyrównanie do lewej/prawej/środka; pisanie wierszem; omówione na wykładzie 8.

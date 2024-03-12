@@ -1,0 +1,32 @@
+Wykres 1
+
+Proszę utworzyć wykres kolumnowy dla danych zwartych w Arkuszu 1 (Wykres 1). Proszę sformatować wykres stosując przynajmniej poniższe modyfikacje:
+- usunąć linie siatki,
+- ustawić tytuł
+- jeden ze słupków wyróżnić
+- wstawić etykiety danych (wartości nad słupkami)
+- zwiększyć szerokość wszystkich słupków, ustawiając odstępy na 50%
+- dodać linię trendu (krzywą regresji) i ustawić jako wielomianową stopnia 5
+
+Wykres 2
+
+Proszę utworzyć wykres kombi (liniowy) dla danych zwartych w Arkuszu 2 (Wykres 2). Proszę sformatować wykres stosując przynajmniej poniższe modyfikacje:
+- ustawić oś Sprzedaż jako pomocniczą
+- zmienić wartości max i min skali Sprzedaż tak, aby wykresy się nie przecinały
+- usunąć główne linie siatki
+- przesunąć legendę na obszar kreślenia
+
+Wykres 3
+
+Proszę utworzyć wykres kołowy dla danych zwartych w Arkuszu 3 (Wykres 3). Proszę sformatować wykres stosując przynajmniej poniższe modyfikacje:
+- usunąć legendę
+- dodać etykiety danych na końcach zewnętrznych
+- ustawić etykiety aby zwierały wartość Kategorię, Wartość liczbową i procentową
+- przesunąć jeden z wycinków wykresu na zewnątrz
+
+Wykres 4
+
+Proszę utworzyć wykres dowolnego typu dla danych zwartych w Arkuszu 4 (Wykres 4). Proszę sformatować wykres stosując przynajmniej poniższe modyfikacje:
+- ustawić tło kolumn / wycinków wykresu kołowego / ... na obrazkowe
+- przestawić inne znalezione przez siebie metody formatowania wykresu
+- możesz spróbować przypisać makro do wykresu

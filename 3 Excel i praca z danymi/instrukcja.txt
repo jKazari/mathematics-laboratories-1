@@ -1,0 +1,17 @@
+Proszę stworzyć arkusz kalkulacyjny zawierający przynajmniej 20 rekordów (wierszy) oraz formuły opisujące jego zawartość. W tym celu należy stworzyć (lub znaleźć) zbiór danych, na którym będą Państwo pracować, temat jest dowolny. Przykładowo, może to być:
+
+wyciąg z banku: data, wysokość transakcji, opis, stan konta po transakcji itp. + funkcje obliczające np. średnie wydatki dzienne, średni stan konta, potencjalne oprocentowanie (gdyby konto było oprocentowane np. 1% w skali roku za każdy dzień) itp. 
+odpowiednik dziennika lekcyjnego: data, ocena, waga oceny; arkusz mógłby zawierać np. osobne zestawy kolumn dla każdego przedmiotu. Następnie podliczanie średniej itp.
+
+Można skorzystać z przykładowych danych zawartych w folderze "Przykładowe zbiory danych" lub poszukać innego zbioru, wg. własnej inwencji. Arkusz należy odpowiednio zmodyfikować wizualnie oraz technicznie stosując następujące kryteria:
+
+przynajmniej 3 typy danych,
+adresowanie względne i bezwzględne,
+przynajmniej 15 różnych funkcji (np.: SUMA, ILOCZYN, ŚREDNIA/ŚREDNIA.A, MEDIAN/MEDIAN.A, MAKS/MAKS.A, MIN/MIN.A, LICZ.JEŻELI, SUMA.JEŻELI, WYSZUKAJ, WYST.NAJCZĘŚCIEJ, ZAOKR, LITERY.MAŁE, LITERY.WIELKIE, ZŁĄCZ.TEKSTY),
+wykorzystanie funkcji JEŻELI,
+ukrycie kolumny,
+zastosowanie formatów: daty i godziny, liczb, walutowe,
+formatowanie warunkowe,
+zastosowanie filtrowania,
+użyć kolorów oraz zadbać o estetykę.
+Proszę załączyć utworzony plik oraz plik z opisem wykorzystanych funkcji.

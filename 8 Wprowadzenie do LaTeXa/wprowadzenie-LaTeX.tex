@@ -1,0 +1,127 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{latexsym}
+\usepackage{amsmath, amssymb}
+\usepackage{graphicx, float}
+\usepackage{polski}
+\usepackage[utf8]{inputenc}
+
+\title{Równania różniczkowe liniowe drugiego rzędu}
+\author{Zachariasz Jażdżewski}
+\frenchspacing
+\setlength{\parindent}{0pt}
+
+\begin{document}
+\maketitle
+%\tableofcontents
+
+\section{Definicja}
+Równanie różniczkowe drugiego rzędu, które można zapisać w postaci
+
+\[ y'' + p(x) \cdot y' + q(x) \cdot y = f(x) \]
+
+nazywamy równaniem liniowym. \\
+
+Funkcje $p(x), \space q(x)$ nazywamy współczynnikami, a funkcję $f(x)$ nazywamy 
+wyrazem wolnym tego równania 
+
+\begin{itemize}
+    \item Jeżeli wyraz wolny jest tożsamościowo równy zero $f(x) \equiv 0$, to równanie nazywamy równaniem jednorodnym
+    \item W przeciwnym przypadku nazywamy je równaniem niejednorodnym
+\end{itemize}
+
+\section{Istnienie i jednoznaczność rozwiązań}
+
+Jeżeli funkcje $p(x), \ q(x)$ i $f(x)$ są ciągłe na przedziale $(a,b)$ oraz jeżeli $x_0 \in (a,b)$ oraz $y_0,  y_1 \in \mathbb{R}$, to zagadnienie początkowe
+
+$$
+\begin{cases}
+   y'' + p(x) \cdot y' + q(x) \cdot y = f(x) \\
+   y(x_0) = y_0 \\
+   y'(x_0) = y_1
+\end{cases}
+$$
+
+ma dokładnie jedno rozwiązanie określone na przedziale $(a,b)$
+
+\section{Rozwiązania równania różniczkowego liniowego drugiego rzędu}
+
+\subsection{Fakt}
+
+Jeżeli funkcje $\phi(x)$ i $\psi(x)$ są na pewnym przedziale rozwiązaniami równania liniowego jednorodnego, to ich dowolna kombinacja liniowa
+
+$$
+y(x) = \alpha\cdot \phi(x) + \beta\cdot \psi(x)
+$$
+
+jest również rozwiązaniem równania
+
+\section{Układ fundamentalny}
+
+Parę rozwiązań $y_1(x), \space y_2(x)$ równania liniowego jednorodnego, określonych na przedziale $(a,b)$ nazywamy układem fundamentalnym równania na tym przedziale, jeżeli Wronskian funkcji $y_1(x)$ i $y_2(x)$ jest różny od zera
+
+$$
+W(y_1, y_2) = \det
+\begin{bmatrix}
+   y_1(x) & y_2(x) \\
+   y_1'(x) & y_2'(x)
+\end{bmatrix}
+\ne 0
+$$
+
+\subsection{Fakt}
+
+Jeżeli funkcje $y_1(x), \space y_2(x)$ tworzą układ fundamentalny równania liniowego jednorodnego, wtedy dla każdego rozwiązania $y(x)$ tego równania istnieją jednoznacznie określone stałe rzeczywiste $C_1, C_2$ takie, że
+
+$$
+y(x) = C_1 \cdot y_1(x) + C_2 \cdot y_2(x)
+$$
+
+\subsection{Rozwiązanie ogólne równania jednorodnego}
+
+Liniową kombinację funkcji układu fundamentalnego, podaną powyżej, nazywamy rozwiązaniem ogólnym (całką ogólną) równania jednorodnego
+
+\section{Równanie jednorodne o stałych współczynnikach}
+
+Równanie jednorodne o stałych współczynnikach jest postaci
+
+$$
+ay'' + by' +cy = 0
+$$
+
+\subsection{Równanie charakterystyczne}
+
+Równanie postaci
+
+$$
+ar^2 + br + c = 0
+$$
+
+nazywamy równaniem charakterystycznym równania różniczkowego
+
+\subsection{Wielomian charakterystyczny}
+
+Wielomian postaci
+
+$$
+w(r) = ar^2 + br + c
+$$
+
+nazywamy wielomianem charakterystycznym tego równania, a jego pierwiastki nazywamy pierwiastkami charakterystycznymi
+
+\section{Równanie niejednorodne}
+
+\subsection{Rozwiązanie ogólne}
+
+Rozwiązaniem ogólnym równania niejednorodnego nazywamy sumę
+
+$$
+y(x) = C_1 \cdot y_1(x) + C_2 \cdot y_2(x) + \phi(x)
+$$
+
+$$
+(\text{CORN} = \text{CORJ} + \text{CSRN})
+$$
+
+gdzie $y_1(x), \space y_2(x)$ tworzą układ fundamentalny równania jednorodnego, a $\phi(x)$ jest dowolnym rozwiązaniem równania niejednorodnego
+
+\end{document}

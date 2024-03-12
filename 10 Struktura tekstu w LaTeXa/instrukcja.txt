@@ -1,0 +1,13 @@
+Proszę o utworzenie dokumentu w języku polskim korzystającego w istotny sposób z materiału przedstawionego na drugiej części wykładu 8.
+
+W szczególności dokument musi zawierać
+
+co najmniej 2 tabele z użyciem środowiska „tabular” (rozmiaru minimum 3x3) umieszczone w środowisku „table”,
+co najmniej 3 ilustracje (środowisko „figure”) wraz z podpisami,
+odsyłacze w tekście do tych tabel i ilustracji („label” / „ref”),
+co najmniej po jednym wyliczeniu każdego z trzech typów: „enumerate”, „itemize” oraz „description”,
+co najmniej 3 inne środowiska (np. „quote”, „center”, „verbatim”).
+Dokument musi zawierać na końcu spis tabel i spis ilustracji.
+Można wybrać czcionkę inną niż Computer Modern.
+
+Tematyka dokumentu może być dowolna, np. opis kilku gatunków ptaków, kwiatów lub owadów z informacjami i zdjęciami z Wikipedii, opis kilku brył geometrycznych, informacje o kilku znanych ludziach, zestaw kilku najnowszych wiadomości z Internetu.

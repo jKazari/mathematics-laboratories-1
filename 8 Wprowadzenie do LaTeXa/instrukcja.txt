@@ -1,0 +1,5 @@
+Proszę o utworzenie dokumentu typu „article” w LaTeXu. Dokument proszę podzielić na akapity. 
+Zwrócić uwagę na prawidłowe formatowanie,  prawidłowe dzielenie wyrazów (zastosować komendy \newline, \linebreak i inne opisane na wykładzie 7). 
+W dokumencie proszę zastosować również symbole i różne znaki specjalne. Tekst przygotować w taki sposób, by znaki interpunkcyjne 
+(cudzysłowy, myślniki, wielokropki itp.) oraz  litery z akcentami (oprócz liter polskich) były uzyskane poleceniami LaTeXa (,,'', ---, \ldots itp.). 
+Proszę zadbać, aby w uzyskanym tekście nie było sierotek, szewców, bękartów i wdów.
